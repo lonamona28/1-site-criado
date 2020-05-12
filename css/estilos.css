@@ -1,0 +1,31 @@
+body{
+    background: purple;
+   font-family: Arial;
+ }
+ .menu{
+   background-color: black;
+ }
+ a{
+   color: purple;
+   text-decoration:none;
+ }
+ a:hover{
+   text-decoration:underline;
+ }
+ .menu ul{
+   display:flex;
+   justify-content:space-around;
+ }
+ .menu li{
+   list-style: none;
+ }
+ a{
+   text-decoration
+ }
+ .site-title{
+   text-align: center;
+ }
+ .site-subtitle{
+   text-align: center;
+   font-style: oblique;
+ }
